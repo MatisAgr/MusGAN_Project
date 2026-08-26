@@ -112,9 +112,9 @@ Conseils et points d'attention
 - Sécurité: stocker secrets/URI DB dans `.env` (ne pas committer).
 
 Crédit
-- ANGER Matis
-- BINET Julien
-- BOURGES Carl
-- OZDEMIR Sedanur
+- Matis
+- Julien
+- Carl
+- Sedanur
 
 ---
